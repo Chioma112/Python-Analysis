@@ -1,2 +1,2 @@
 # Python-challenge-
-repository for python homework
+Repository for python homework
